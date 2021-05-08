@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Takwira.TN</string>
+    <string name="username_log">Nom d`utilisateur</string>
+    <string name="password_log">Mot de passe</string>
+    <string name="txt_inscr">Inscrivez-vous </string>
+    <string name="forget_pass">Mot de passe oblieé ?</string>
+    <string name="copyright">Copyright ©2021 MR_INT </string>
+    <string name="txt_btn_log">Connexion </string>
+    <string name="txt_fullname">Nom et Prénom </string>
+    <string name="txt_email">Email </string>
+    <string name="txt_phone">Numéro de Téléphone </string>
+    <string name="txt_userinscri">Nom d`utilisateur </string>
+    <string name="txt_passinscri">Mot de passe </string>
+    <string name="txt_cmpt_personnel">Compte Personnel </string>
+    <string name="txt_cmpt_professionnel">Compte Professionnel </string>
+    <string name="txt_btn_inscri">S`INSRIRE </string>
+    <string name="txt_forgetpass_btn">réinitialiser le mot de passe</string>
+    <string name="txt_identifier">Vous avez déjà un compte? , S`identifier  </string>
+    <string name="txt_goback">retourner</string>
+    <string name="txt_logout">Déconnexion</string>
+    <string name="txt_nv_pass">Nouveau mot de passe</string>
+    <string name="ins_rer_image">Insérer image</string>
+    <string name="txt_btn_add_stade">AJOUTER</string>
+    <string name="supp_stade">Supprimer Stade</string>
+    <string-array name="address">
+        <item>Tunis</item>
+        <item>Ariana</item>
+        <item>Ben Arous</item>
+        <item>Mannouba</item>
+    </string-array>
+
+</resources>
